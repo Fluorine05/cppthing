@@ -13,7 +13,6 @@ int main() {
 	int age;
 	std::cout << "What is your age ";
 	cin >> age;
-	
 	std::cout << "Your age is " << age << endl;
 	const float PI = 3.14;
 	std::cout << "the word PI in numbers is " << PI << endl;
@@ -23,5 +22,8 @@ int main() {
 	std::cout << "not random number " << sum1 << endl;
 	std::cout << "not random numbers " << sum2 << endl;
 	std::cout << "completly not random number's " << sum3 << endl;
+	
+	
+	
 	return EXIT_SUCCESS;
 }
