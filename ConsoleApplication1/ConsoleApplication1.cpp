@@ -3,10 +3,11 @@
 using namespace std;
 
 int main() {
-	std::cout << "Arun is the GOAT at this" << endl;
-	string sentence = "My name is asif and i am exploring c++ \n";
+	std::cout << "M5t2 is the GOAT at this" << endl;
+	string sentence = "My name is Fluorine and i am exploring c++ \n";
 	std::cout << sentence;
 	cout << "The length of the text above is : " << sentence.length() << " characters long" << endl;
+	std::cout << "THIS INFORMATION WILL NOT BE STORED!" << endl;
 	string name;
 	std::cout << "Enter your name " << endl;
 	cin >> name;
