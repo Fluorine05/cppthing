@@ -6,7 +6,7 @@ int main(int argc, char**argv) {
 	std::cout << "M5t2 is the GOAT at this" << endl;
 	string sentence = "My name is Fluorine and i am exploring c++ \n";
 	std::cout << sentence;
-	cout << "The length of the text above is : "  << sentence.length() << " characters long \n";
+	cout << "The length of the text above is : " << sentence.length() << " characters long \n";
 	std::cout << "THIS INFORMATION WILL NOT BE STORED! \n";
 	// Procceds to store info :O
 	string name;
